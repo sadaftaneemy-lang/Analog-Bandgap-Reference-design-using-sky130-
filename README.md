@@ -43,13 +43,15 @@ device.
 • The straight red line indicates good linearity with temperature.
 
 ## Installation
+
 For my project I have installed 3 opensource tools 
   1. NgSpice
   2. Magic Tool
   3. Sky130 PDK
 
 
-## BANDGAP
+
+## BANDGAP REFERENCE CIRCUIT
 
 
 
