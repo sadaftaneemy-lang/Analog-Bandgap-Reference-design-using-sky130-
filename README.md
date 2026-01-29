@@ -40,7 +40,16 @@ The below figure is a plot of PTAT.
 the graph shows the output vs temperature from –40°C to +140°C.
 Output increases linearly with temperature.This is typical of a PTAT circuit or temperature-dependent 
 device. 
-• The straight red line indicates good linearity with temperature. 
+• The straight red line indicates good linearity with temperature.
+
+## Installation
+For my project I have installed 3 opensource tools 
+  1. NgSpice
+  2. Magic Tool
+  3. Sky130 PDK
+
+
+## BANDGAP
 
 
 
