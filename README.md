@@ -49,10 +49,34 @@ For my project I have installed 3 opensource tools
   2. Magic Tool
   3. Sky130 PDK
 
-Ngspice installation :     
+**Ngspice installation** :     
 
 ```bash id="v9vqu3"
 sudo apt-get install-y ngspice
+
+```
+**Magic Tool** :
+
+```bash id="v9vqu3"
+sudo wget "http://opencircuitdesign.com/magic/archive/magic-8.3.122.tgz"
+
+tar-xvzf magic-8.3.122.tgz
+
+cd magic-8.3.122
+
+sudo ./configure
+
+sudo make
+
+sudo make install
+
+```
+
+
+**Sky130 PDK** :
+
+```bash id="v9vqu3"
+
 
 ```
 
