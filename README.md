@@ -1,7 +1,9 @@
-This is my B.E Final year project
 # Analog Bandgap Reference design using sky130
 
-The 
+*This is my B.E Final year project*
+
+🎯 The objective of this project is to design and analyze a Bandgap Reference (BGR) circuit capable of generating a stable reference voltage that remains nearly constant despite variations in temperature, supply voltage, and process parameters.
+
 ## 🧠 What is BGR ?
 Bandgap  reference circuit is an analog Ip block . It provides constant reference voltage irrespective of temperature , supply voltage and process  variations. It is used in a number of analog and mixed circuit such as LDO , ADC, DAC.
 A bandgap reference circuit utilizes a combination of transistors and resistors to create a voltage  that’s   independent of these factors as shown in figure below
