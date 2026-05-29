@@ -49,6 +49,11 @@ For my project I have installed 3 opensource tools
   2. Magic Tool
   3. Sky130 PDK
 
+     Ngspice installation :
+
+     sudo apt-get install-y ngspice
+     
+
 
 
 ## BANDGAP REFERENCE CIRCUIT
