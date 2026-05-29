@@ -49,9 +49,13 @@ For my project I have installed 3 opensource tools
   2. Magic Tool
   3. Sky130 PDK
 
-     Ngspice installation :
+Ngspice installation :     
 
-     sudo apt-get install-y ngspice
+```bash id="v9vqu3"
+sudo apt-get install-y ngspice
+
+```
+
      
 
 
