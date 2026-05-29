@@ -76,7 +76,15 @@ sudo make install
 **Sky130 PDK** :
 
 ```bash id="v9vqu3"
+git clone git://opencircuitdesign.com/open_pdks
 
+cd open_pdks
+
+sudo ./configure--enable-sky130-pdk=/home/sadaf/Desktop/webinar/pdks/skywaterpdk/libraries--with-sky130-local-path=/home/sadaf/Desktop/webinar/pdks
+
+sudo make
+
+sudo make install
 
 ```
 
