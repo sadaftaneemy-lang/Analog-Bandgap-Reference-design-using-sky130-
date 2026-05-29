@@ -2,7 +2,7 @@ This is my B.E Final year project
 # Analog Bandgap Reference design using sky130
 
 The 
-## What is BGR ?
+## 🧠 What is BGR ?
 Bandgap  reference circuit is an analog Ip block . It provides constant reference voltage irrespective of temperature , supply voltage and process  variations. It is used in a number of analog and mixed circuit such as LDO , ADC, DAC.
 A bandgap reference circuit utilizes a combination of transistors and resistors to create a voltage  that’s   independent of these factors as shown in figure below
 
@@ -42,7 +42,7 @@ Output increases linearly with temperature.This is typical of a PTAT circuit or 
 device. 
 • The straight red line indicates good linearity with temperature.
 
-## Installation
+## 🔧 Installation
 
 For my project I have installed 3 opensource tools 
   1. NgSpice
