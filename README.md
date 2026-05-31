@@ -90,7 +90,8 @@ sudo make install
 ```
 ## BANDGAP REFERENCE CIRCUIT
 
-**This is the design of the BGR circuit**
+**Below is the design of the BGR circuit**
+
 <img width="681" height="494" alt="image" src="https://github.com/user-attachments/assets/a1fc4b56-2ef7-4144-b035-b9bb8c7f4a99" />
 
 
