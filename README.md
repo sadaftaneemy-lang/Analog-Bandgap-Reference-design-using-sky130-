@@ -1,4 +1,4 @@
-*This is my B.E Final year project*
+*This is my B.E Final year project (2025-2026)* 
 # Analog Bandgap Reference design using sky130
 
 🎯 The objective of this project is to design and analyze a Bandgap Reference (BGR) circuit capable of generating a stable reference voltage that remains nearly constant despite variations in temperature, supply voltage, and process parameters.
