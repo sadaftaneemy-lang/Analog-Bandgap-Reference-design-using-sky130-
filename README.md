@@ -144,8 +144,6 @@ In X6 as we can see only the emitter is Connected to the node and all other In X
 
 And lastly M=1 represents the Number of BJT connected to this node.
 
-If a number of BJTS are connected to the Same terminals then we can write the number of BJTS connected to similar 
-terminals,for the above sentence ex is X7 here we have 8 BJTS Connected to similar terminal 
-have directly written M=8 in our code. 
+If a number of BJTS are connected to the Same terminals then we can write the number of BJTS connected to similar terminals,for the above sentence ex is X7 here we have 8 BJTS Connected to similar terminal have directly written M=8 in our code. 
 
 
