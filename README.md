@@ -99,6 +99,9 @@ sudo make install
 
 <img width="989" height="533" alt="image" src="https://github.com/user-attachments/assets/957c8bcf-14d2-4fc8-be78-6987bc4f7b65" />
 
+First line is a comment line 
+Third line Saves the branch current 
+4th & 5th line gives the address of libraries which will be used for simulation. 
 
 
 
