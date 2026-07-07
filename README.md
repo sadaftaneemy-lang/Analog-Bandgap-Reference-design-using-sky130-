@@ -132,10 +132,14 @@ Next we write the model name of the transistor which we have used,and in the las
 **For  BJT**  
 Ex: X6 GND GND  I  GND 
 
-First GND is Collector. 
-Second GND is Base. 
-I is Emitter 
-Third GND is substrate 
+First GND is Collector.
+
+Second GND is Base.
+
+I is Emitter
+
+Third GND is substrate
+
 In X6 as we can see only the emitter is Connected to the node and all other In X6 as we can see 
 only the emitter is Connected to the node and all other terminals are connected to ground, so we 
 have written GND GND  I and Ground.Next we have written the model name for the BJT. 
