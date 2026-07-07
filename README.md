@@ -94,7 +94,7 @@ sudo make install
 
 <img width="681" height="494" alt="image" src="https://github.com/user-attachments/assets/a1fc4b56-2ef7-4144-b035-b9bb8c7f4a99" />
 
-**This is the SPICE Netlist**
+## This is the SPICE Netlist
 <img width="996" height="443" alt="image" src="https://github.com/user-attachments/assets/eabc1f62-500d-403b-a569-24b6b0fe41c4" />
 
 <img width="989" height="533" alt="image" src="https://github.com/user-attachments/assets/957c8bcf-14d2-4fc8-be78-6987bc4f7b65" />
