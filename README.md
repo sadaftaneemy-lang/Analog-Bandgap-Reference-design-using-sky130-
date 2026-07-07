@@ -100,8 +100,11 @@ sudo make install
 <img width="989" height="533" alt="image" src="https://github.com/user-attachments/assets/957c8bcf-14d2-4fc8-be78-6987bc4f7b65" />
 
 First line is a comment line 
+
 Third line Saves the branch current 
-4th & 5th line gives the address of libraries which will be used for simulation. 
+
+4th & 5th line gives the address of libraries which will be used for simulation.
+
 Now looking for circuit elements
 
 **For MOSFETS** 
@@ -123,6 +126,7 @@ VDD  is  source
 VDD is substrate.
 
 For XM1 the drain terminal is connected to A node, the gate terminal is connected to C node the source and Substrate are connected to VDD.
+
 Next we write the model name of the transistor which we have used,and in the last of line we write length and width.
 
 
