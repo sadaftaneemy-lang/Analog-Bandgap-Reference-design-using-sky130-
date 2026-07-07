@@ -129,6 +129,18 @@ For XM1 the drain terminal is connected to A node, the gate terminal is connecte
 
 Next we write the model name of the transistor which we have used,and in the last of line we write length and width.
 
-
+**For  BJT**  
+Ex: X6 GND GND  I  GND 
+First GND is Collector. 
+Second GND is Base. 
+I is Emitter 
+Third GND is substrate 
+In X6 as we can see only the emitter is Connected to the node and all other In X6 as we can see 
+only the emitter is Connected to the node and all other terminals are connected to ground, so we 
+have written GND GND  I and Ground.Next we have written the model name for the BJT. 
+And lastly M=1 represents the Number of BJT connected to this node.If a number of BJTS are 
+connected to the Same terminals then we can write the number of BJTS connected to similar 
+terminals,for the above sentence ex is X7 here we have 8 BJTS Connected to similar terminal 
+have directly written M=8 in our code. 
 
 
