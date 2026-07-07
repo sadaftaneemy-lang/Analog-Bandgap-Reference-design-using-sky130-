@@ -131,6 +131,7 @@ Next we write the model name of the transistor which we have used,and in the las
 
 **For  BJT**  
 Ex: X6 GND GND  I  GND 
+
 First GND is Collector. 
 Second GND is Base. 
 I is Emitter 
