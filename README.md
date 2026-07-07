@@ -102,7 +102,28 @@ sudo make install
 First line is a comment line 
 Third line Saves the branch current 
 4th & 5th line gives the address of libraries which will be used for simulation. 
+Now looking for circuit elements
 
+**For MOSFETS** 
+
+• First we will write name of transistor. 
+
+• then the terminal. 
+
+Ex: XM1  A C C VDD VDD 
+
+Here XM1  is the name of Transistor 
+
+A is Drain 
+
+C is Gate 
+
+VDD  is  source
+
+VDD is substrate.
+
+For XM1 the drain terminal is connected to A node, the gate terminal is connected to C node the source and Substrate are connected to VDD.
+Next we write the model name of the transistor which we have used,and in the last of line we write length and width.
 
 
 
