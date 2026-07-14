@@ -157,3 +157,23 @@ Ex: RL  GND  Vref  100MEG
 
 RL is the Resistor Name 
 
+ND and Vref are both the terminal  to which it is connected. 
+100 MEG  is value. 
+
+In our code we have not given the value for R1, R2, R3 because further we will give the values and take out graphs.Voltage Sources V1, V2, V3 & V4 are given so that We can measure the current flowing through the branch.
+
+I have connected VDDA to VDD and GND and it is DC voltage of 3.3V 
+
+→VDDA  VDD  GND  DC  3.3V 
+
+I  have also connected a DC voltage of 3.3v Source to enable to make it on 
+
+→VD  En  GND  DC 3.3V 
+ 
+.dc  temp -40  140  0.1 
+↳ This line is used for DC analysis, it gives the temperature Switch from  -40 to 140 °C With 
+step size of 0.1  
+From line 45 to 53 are used for running the DC analysis. 
+All the plot are used and to plot the voltages which we want 
+After running the netlist we we get plots of Vref, CTAT and PTAT.
+
