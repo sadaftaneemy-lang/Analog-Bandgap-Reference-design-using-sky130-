@@ -175,7 +175,9 @@ I  have also connected a DC voltage of 3.3v Source to enable to make it on
 
 ↳ This line is used for DC analysis, it gives the temperature Switch from  -40 to 140 °C With step size of 0.1  
 
-From line 45 to 53 are used for running the DC analysis. 
+
+From line 45 to 53 are used for running the DC analysis.
+
 All the plot are used and to plot the voltages which we want 
 After running the netlist we  get plots of Vref, CTAT and PTAT.
 
