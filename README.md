@@ -179,5 +179,6 @@ I  have also connected a DC voltage of 3.3v Source to enable to make it on
 From line 45 to 53 are used for running the DC analysis.
 
 All the plot are used and to plot the voltages which we want 
+
 After running the netlist we  get plots of Vref, CTAT and PTAT.
 
