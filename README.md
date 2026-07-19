@@ -5,6 +5,7 @@
 
 ## 🧠 What is BGR ?
 Bandgap  reference circuit is an analog Ip block . It provides constant reference voltage irrespective of temperature , supply voltage and process  variations. It is used in a number of analog and mixed circuit such as LDO , ADC, DAC.
+
 A bandgap reference circuit utilizes a combination of transistors and resistors to create a voltage  that’s   independent of these factors as shown in figure below
 
 <img width="394" height="222" alt="image" src="https://github.com/user-attachments/assets/1d6112c0-43d8-4220-981b-d801833466be" />
