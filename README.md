@@ -183,6 +183,6 @@ All the plot are used and to plot the voltages which we want
 After running the netlist we  get plots of Vref, CTAT and PTAT.
 
 # Acknowledgement
-I would like to thank  Anmol Purty, Kunal Ghosh (Co-Founder of VSD),  for guiding throughout this research work on Bandgap reference circuit using sky130nm PDK.
+I would like to thank Anmol Purty vlsi engineer, Kunal Ghosh (Co-Founder of VSD),for guiding throughout this research work on Bandgap reference circuit using sky130nm PDK.
 
 
